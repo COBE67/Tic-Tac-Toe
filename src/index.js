@@ -81,6 +81,7 @@ class Game extends React.Component {
       return (
          <div className="game">
             <div className="game-board">
+               <p className="name">Corey's</p>
                <p className="name">Tic-Tac-Toe</p>
                   <Board/>
             </div>
