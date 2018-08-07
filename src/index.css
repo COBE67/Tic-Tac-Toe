@@ -1,5 +1,5 @@
 body {
-    font: 60px Chalkboard, serif;
+    font: 30px Chalkboard, serif;
     margin-left: 33%;
     margin-top: 0.5%;
 }
@@ -60,5 +60,11 @@ ol, ul {
 }
 
 .game-info {
-    margin-left: 20px;
+    margin-left: 50px;
+    margin-top: 200px;
 }
+
+/*.moves {*/
+    /*font: 15px Chalkboard, Serif;*/
+
+/*}*/
