@@ -1,11 +1,11 @@
 body {
-    font: 60px "Century Gothic", Futura, sans-serif;
+    font: 60px Chalkboard, serif;
     margin-left: 33%;
     margin-top: 0.5%;
 }
 
 ol, ul {
-    padding-left: 30px;
+    padding-left: 2.5em;
 }
 
 .name {
@@ -34,8 +34,9 @@ ol, ul {
     background: #fff;
     border: 3px solid #0A9E34;
     float: left;
-    font-size: 150px;
+    font-size: 2.5em;
     font-weight: bold;
+    font: 150px Chalkboard, Serif;
     line-height: 34px;
     height: 150px;
     margin-right: -1px;
